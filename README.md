@@ -1,7 +1,7 @@
-### SQLC Example
+#### SQLC Example
 Short code to test SQLC
 
-### How to install
+#### How to install
 Follow these steps: 
 
 ```
